@@ -1,0 +1,9 @@
+node_modules
+.serverless
+secret.pem
+.webpack
+
+# VSCode
+.vscode
+
+.DS_Store
